@@ -54,12 +54,5 @@ class LinkedList {
   }
 }
 
-linkedList = new LinkedList();
-
-linkedList.addToHead(1);
-linkedList.addToHead(2);
-linkedList.addToHead(3);
-
-linkedList.print()
 
 module.exports = LinkedList;
